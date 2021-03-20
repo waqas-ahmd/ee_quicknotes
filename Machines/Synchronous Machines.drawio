@@ -1,1 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2021-03-20T13:56:19.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.54" version="14.3.1" etag="Q9ZOp3G1jPrnWzJtQhUB" type="github"><diagram id="Ghbf7SGEfbt2_YfuzdKA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-20T14:20:35.730Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.54" etag="BHBDCScW7OjctlSbB7ai" version="14.3.1" type="github">
+  <diagram id="Ghbf7SGEfbt2_YfuzdKA" name="Synchronous Machines ">
+    <mxGraphModel dx="868" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XUVmQutD-YXNH8eTUAyd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XUVmQutD-YXNH8eTUAyd-1" target="XUVmQutD-YXNH8eTUAyd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XUVmQutD-YXNH8eTUAyd-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XUVmQutD-YXNH8eTUAyd-1" target="XUVmQutD-YXNH8eTUAyd-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XUVmQutD-YXNH8eTUAyd-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XUVmQutD-YXNH8eTUAyd-1" target="XUVmQutD-YXNH8eTUAyd-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XUVmQutD-YXNH8eTUAyd-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XUVmQutD-YXNH8eTUAyd-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XUVmQutD-YXNH8eTUAyd-1" value="&lt;b&gt;Synchronous Machines&amp;nbsp;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XUVmQutD-YXNH8eTUAyd-2" value="Generator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="110" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XUVmQutD-YXNH8eTUAyd-3" value="Motor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="130" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XUVmQutD-YXNH8eTUAyd-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XUVmQutD-YXNH8eTUAyd-13" target="XUVmQutD-YXNH8eTUAyd-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="325" y="210" />
+              <mxPoint x="325" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XUVmQutD-YXNH8eTUAyd-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XUVmQutD-YXNH8eTUAyd-13" target="XUVmQutD-YXNH8eTUAyd-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="225" y="210" />
+              <mxPoint x="225" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XUVmQutD-YXNH8eTUAyd-13" value="Main Components" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="180" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XUVmQutD-YXNH8eTUAyd-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XUVmQutD-YXNH8eTUAyd-14" target="XUVmQutD-YXNH8eTUAyd-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XUVmQutD-YXNH8eTUAyd-14" value="Rotor" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="280" y="220" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XUVmQutD-YXNH8eTUAyd-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XUVmQutD-YXNH8eTUAyd-15" target="XUVmQutD-YXNH8eTUAyd-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XUVmQutD-YXNH8eTUAyd-15" value="Stator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="220" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XUVmQutD-YXNH8eTUAyd-21" value="&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;span&gt;Stationary Part&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;span&gt;Armature Coils&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;span&gt;3 Phase Voltage&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="180" y="270" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XUVmQutD-YXNH8eTUAyd-22" value="&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;span&gt;Rotating Part&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;span&gt;Field Coils&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;span&gt;DC Voltage&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="280" y="270" width="90" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
